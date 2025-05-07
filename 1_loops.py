@@ -11,6 +11,8 @@ for fruit in fruits:
     print(fruit)
 #I just worked with loops
 
+#Today is Wednesday and I'm tired
+
 # Given a list of school subjects:
 subjects = ["Math", "Science", "History", "Art"]
 for subject in subjects:
